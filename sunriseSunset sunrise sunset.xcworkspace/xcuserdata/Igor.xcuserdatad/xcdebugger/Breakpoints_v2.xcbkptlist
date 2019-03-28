@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sunriseSunset sunrise sunset/Controller/ViewController.swift"
+            timestampString = "575480922.712641"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sunriseSunset sunrise sunset/Controller/ViewController.swift"
+            timestampString = "575480922.713034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "viewController(_:didAutocompleteWith:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sunriseSunset sunrise sunset/Controller/ViewController.swift"
+            timestampString = "575480922.713306"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "viewController(_:didAutocompleteWith:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sunriseSunset sunrise sunset/Controller/ViewController.swift"
+            timestampString = "575480922.713573"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sunriseSunset sunrise sunset/Controller/ViewController.swift"
+            timestampString = "575480922.713837"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "viewController(_:didAutocompleteWith:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sunriseSunset_sunrise_sunset.ViewController.viewController(_: __C.GMSAutocompleteViewController, didAutocompleteWith: __C.GMSPlace) -&gt; ()"
+                  moduleName = "sunriseSunset sunrise sunset"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Main/TestApp/sunriseSunset%20sunrise%20sunset/Archive/sunriseSunset%20sunrise%20sunset/Controller/ViewController.swift"
+                  timestampString = "575476796.923129"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (sunriseSunset_sunrise_sunset.SunriseSunsetResponse) -&gt; () in sunriseSunset_sunrise_sunset.ViewController.viewController(_: __C.GMSAutocompleteViewController, didAutocompleteWith: __C.GMSPlace) -&gt; ()"
+                  moduleName = "sunriseSunset sunrise sunset"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Main/TestApp/sunriseSunset%20sunrise%20sunset/Archive/sunriseSunset%20sunrise%20sunset/Controller/ViewController.swift"
+                  timestampString = "575476796.924903"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (sunriseSunset_sunrise_sunset.SunriseSunsetResponse) -&gt; () in sunriseSunset_sunrise_sunset.ViewController.viewController(_: __C.GMSAutocompleteViewController, didAutocompleteWith: __C.GMSPlace) -&gt; ()"
+                  moduleName = "sunriseSunset sunrise sunset"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Main/TestApp/sunriseSunset%20sunrise%20sunset/Archive/sunriseSunset%20sunrise%20sunset/Controller/ViewController.swift"
+                  timestampString = "575476796.926663"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sunriseSunset sunrise sunset/Controller/ViewController.swift"
+            timestampString = "575480922.714089"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "viewController(_:didAutocompleteWith:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sunriseSunset sunrise sunset/Controller/ViewController.swift"
+            timestampString = "575480922.71437"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sunriseSunset sunrise sunset/Controller/ViewController.swift"
+            timestampString = "575480922.714635"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
